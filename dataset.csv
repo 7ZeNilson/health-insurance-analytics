@@ -1,0 +1,5 @@
+customer_id,idade,plano,valor_mensal,custo_medico,status
+1,25,Basico,120,80,Ativo
+2,45,Premium,350,400,Ativo
+3,62,Basico,150,900,Ativo
+4,34,Intermediario,220,150,Cancelado
